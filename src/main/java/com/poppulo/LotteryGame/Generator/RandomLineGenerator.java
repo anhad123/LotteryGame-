@@ -1,5 +1,7 @@
 package com.poppulo.LotteryGame.Generator;
 
+import com.poppulo.LotteryGame.Entity.LotteryLine;
+
 import java.util.Random;
 
 public class RandomLineGenerator implements LineGeneratorStratergy {
